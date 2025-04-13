@@ -4,7 +4,7 @@
 
 - 😄 **Pronouns**: He / Him / His  
 - 🔭 **Current Role**: Senior Consultant - QA @ ThoughtWorks, India  
-- 🌍 **Location**: Hyderabad, India  
+- 🌍 **Location**: Bangalore, India  
 - 🧠 **Currently Learning**: Selenium, GitLab CI/CD, AWS, Kubernetes, Docker  
 - 🧪 **Passionate About**:  
   - Test Strategy & Planning  
