@@ -27,8 +27,6 @@
 ## 📫 Reach Me On
 
 - [LinkedIn](https://www.linkedin.com/in/saidineshnarisetti/)  
-- 📧 Email: [dinu.narisetti@gmail.com *(optional)*  
-
 ---
 
 ## ⚡ Fun Fact
